@@ -156,4 +156,4 @@ fpa-variance-report/
 
 ---
 
-*Built as part of a reporting analytics portfolio targeting Financial Analyst and BI Analyst roles in Sydney, Australia.*
+
