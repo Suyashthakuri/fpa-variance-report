@@ -1,0 +1,8 @@
+﻿metric_id,metric_name,metric_type,unit,higher_is_better,is_financial
+1,Revenue,P&L,AUD_000,1,1
+2,Direct Costs,P&L,AUD_000,0,1
+3,Gross Profit,P&L,AUD_000,1,1
+4,Operating Expenses,P&L,AUD_000,0,1
+5,EBITDA,P&L,AUD_000,1,1
+6,Headcount,Non-Financial,FTE,0,0
+7,NPS Score,Non-Financial,Points,1,0

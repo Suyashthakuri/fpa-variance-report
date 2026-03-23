@@ -1,0 +1,7 @@
+﻿product_id,product_name,division,revenue_type,cost_centre
+1,Retail Banking,Consumer,Net Interest Income,CC-001
+2,Business Banking,Commercial,Net Interest Income,CC-002
+3,Wealth Management,Consumer,Fee Income,CC-003
+4,Insurance,Consumer,Premium Income,CC-004
+5,Markets,Institutional,Trading Income,CC-005
+6,Operations,Support,Internal Charges,CC-006
